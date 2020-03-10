@@ -22,6 +22,6 @@ html {
 
 @media only screen and (max-width: 1000px) {
   #dolphin {
-    top: 1000px;
+    top: 500px;
   }
 }
